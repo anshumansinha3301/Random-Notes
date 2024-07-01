@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-            
+             
 int main() {
     double a, b, c;
     std::cout << "Enter coefficients a, b and c: ";
