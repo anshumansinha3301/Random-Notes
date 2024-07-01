@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-// code to find quaratic equation  
+// code to find quaratic equation   
 // Code by Anshuman Sinha 
 int main() {
     double a, b, c;
