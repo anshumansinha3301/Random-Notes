@@ -94,5 +94,5 @@ Outliers - an outlier is a data point that is very different from the rest of th
 in large datasets. One common way to detect outliers in a dataset is by using a box plot. Outliers can significantly degrade the predictive power of a 
 machine learning model. Advanced methods for dealing with outliers include the RANSAC method
 
-
+ 
 */
