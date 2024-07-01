@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 // code to find quaratic equation   
-// Code by Anshuman Sinha  
+// Code by Anshuman Sinha   
 int main() {
     double a, b, c;
     std::cout << "Enter coefficients a, b and c: ";
