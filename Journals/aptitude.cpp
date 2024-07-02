@@ -85,7 +85,7 @@ popular type of dataset is a dataset containing numerical data that is typically
 Data Wrangling - Data wrangling is the process of converting data from its raw form to a tidy form ready for analysis. Data wrangling is an 
 important step in data preprocessing and includes several processes like data importing, data cleaning, data structuring, string processing, HTML
 parsing, handles dates and times, handling missing data and text mining.
-
+ 
 Data Visualization - It is one of the main tools used to analyse and study relationships between different variables. Data visualization 
 (e.g., scatter plots, line graphs, bar plots, histograms, qqplots, smooth densities, boxplots, pair plots, heat maps, etc)
 can be used for descriptive analytics. Data visualization is also used in machine learning for data preprocessing and analysis,
