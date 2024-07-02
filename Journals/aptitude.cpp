@@ -94,6 +94,6 @@ feature selection, model selection, model buliding, model testing, and model eva
 Outliers - an outlier is a data point that is very different from the rest of the dataset. Outliers are very common and are expected
 in large datasets. One common way to detect outliers in a dataset is by using a box plot. Outliers can significantly degrade the predictive power of a 
 machine learning model. Advanced methods for dealing with outliers include the RANSAC method
-  
+   
   
 */
