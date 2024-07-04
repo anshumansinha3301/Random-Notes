@@ -27,7 +27,7 @@ int main() {
         std::cout << "Root 1 = " << realPart << " + " << imaginaryPart << "i" << std::endl;
         std::cout << "Root 2 = " << realPart << " - " << imaginaryPart << "i" << std::endl;
     }
-
+ 
     return 0;
 }
 
