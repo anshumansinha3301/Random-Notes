@@ -77,7 +77,7 @@ int main() {
 
 /*
 
-Data Science Terms
+Data Science Interview Question terminologies by Anshuman Sinha
 Dataset - A dataset is a particular instance of data that is ued for analysis or model building at any given time. A dataset comes in different 
 flavors such as numerical data, categorical data, text data, image data, voice data and video data. For beginning data science projects, the most 
 popular type of dataset is a dataset containing numerical data that is typically stored in a comma separated value (CSV) file format.
