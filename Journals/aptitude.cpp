@@ -6,7 +6,7 @@ int main() {
     double a, b, c;
     std::cout << "Enter coefficients a, b and c: ";
     std::cin >> a >> b >> c;
-
+ 
     double discriminant = b * b - 4 * a * c;
     double root1, root2;
  
